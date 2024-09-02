@@ -1,0 +1,8 @@
+biggan: 1.0000
+wukong: 1.0000
+glide: 0.9934
+sdv4: 0.9811
+sdv5: 0.9733
+VQDM: 0.9800
+ilsvrc: 0.9507
+ilsvrc_adm: 0.9901
